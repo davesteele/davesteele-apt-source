@@ -1,0 +1,5 @@
+davesteele-apt-source (1.0) davesteele; urgency=medium
+
+  * Initial release
+
+ -- David Steele <steele@debian.org>  Tue, 16 Feb 2021 08:54:04 -0500

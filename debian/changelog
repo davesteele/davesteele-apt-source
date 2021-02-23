@@ -1,3 +1,9 @@
+davesteele-apt-source (1.1) davesteele; urgency=medium
+
+  * Add new signing key 0959C4A3DCF89FBF.
+
+ -- David Steele <steele@debian.org>  Tue, 23 Feb 2021 12:58:46 -0500
+
 davesteele-apt-source (1.0) davesteele; urgency=medium
 
   * Initial release

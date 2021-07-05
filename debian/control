@@ -14,3 +14,5 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Apt configuration for comitup repository
  This adds a managed key and apt sources entry for the comitup
  repository managed by David Steele.
+ .
+ Note that this key installed by this package is is on the Debian Keyring.

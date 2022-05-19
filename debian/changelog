@@ -1,9 +1,9 @@
-davesteele-apt-source (1.2) UNRELEASED; urgency=medium
+davesteele-apt-source (1.2) davesteele; urgency=medium
 
   * Move the keyring to /usr/share/keyrings, per
     https://wiki.debian.org/DebianRepository/UseThirdParty
 
- -- David Steele <steele@debian.org>  Thu, 19 May 2022 11:14:27 -0400
+ -- David Steele <steele@debian.org>  Thu, 19 May 2022 11:18:57 -0400
 
 davesteele-apt-source (1.1) davesteele; urgency=medium
 

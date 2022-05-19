@@ -1,1 +1,1 @@
-deb [signed-by=/usr/share/davesteele-comitup-apt-source/8A3171EF366150CE.asc] http://davesteele.github.io/comitup/repo comitup main
+deb [signed-by=/usr/share/keyrings/davesteele-archive-keyring.gpg] http://davesteele.github.io/comitup/repo comitup main

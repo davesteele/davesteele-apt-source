@@ -1,0 +1,7 @@
+X-Repolib-Name: Comitup
+Enabled: yes
+Types: deb
+Signed-By: /usr/share/keyrings/davesteele-archive-keyring.gpg
+URIs: http://davesteele.github.io/comitup/repo
+Suites: comitup
+Components: main

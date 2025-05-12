@@ -1,3 +1,10 @@
+davesteele-apt-source (1.3) davesteele; urgency=medium
+
+  * Update to DEB822 format.
+  * Add a new signing key, expiring 05/30.
+
+ -- David Steele <steele@debian.org>  Mon, 12 May 2025 13:17:42 -0400
+
 davesteele-apt-source (1.2) davesteele; urgency=medium
 
   * Move the keyring to /usr/share/keyrings, per

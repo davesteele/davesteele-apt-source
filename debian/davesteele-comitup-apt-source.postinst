@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  configure)
+    # clear out the old way of specifying the comitup repo
+    rm -f /etc/apt/sources.list.d/comitup.list
+  ;;
+esac
+
+#DEBHELPER#
+
+exit 0
